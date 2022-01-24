@@ -2,8 +2,8 @@
   "films": [
   {
     "id": 1,
-    "name": "Harry Potter y la piedra filosofal",
-    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf1.jpg",
+    "name": "Lina",
+    "img": "https://avatanplus.com/files/resources/mid/577521243a164155a189758e.png",
     "type": [
       "Adventure",
       "Fantastic"
