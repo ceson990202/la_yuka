@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/dire/invokah.png
+https://raw.githubusercontent.com/ceson990202/la_yuka/main/yuka.json
