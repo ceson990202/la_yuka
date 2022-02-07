@@ -1,147 +1,142 @@
 {
-  "films": [
+  "Heroes Dire": [
   {
     "id": 1,
-    "name": "Lina",
-    "img": "https://avatanplus.com/files/resources/mid/577521243a164155a189758e.png",
-    "type": [
-      "Adventure",
-      "Fantastic"
-    ],
-	"year": "2001",
-	"duration": "2h 32min",
-	"director": "Chris Columbus",
-	"description": "alguna"
+    "name": "Invokah",
+    "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/dire/invokah.png",
+    
+	"Atributo": "Intelecto",
+	
+	"FuerzaXlevel": "18 + 2.4",
+	"AgilidadXlevel": "14 + 1.9",
+	"IntelectoXlevel": "15 + 4.6",
+	"ResistenciaMagicaBase": " 25%",
+	"RangoAtaque": "600",
+	"VelocidadAtaque": "100",
+	"VelocidadProyectil": "900",
+	"VelocidadMovimiento": "275",
+	
   },
   {
     "id": 2,
-    "name": "Harry Potter y la cámara secreta",
-    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
-    "type": [
-      "Adventure",
-      "Fantastic"
-    ],
-	"year": "2002",
-	"duration": "2h 41min",
-	"director": "Chris Columbus",
-	"description": "alguna"
+    "name": "Ancient Apparition",
+    "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/dire/ancient.png",
+    
+	"Atributo": "Intelecto",
+	
+	"FuerzaXlevel": "20 + 1.9",
+	"AgilidadXlevel": "20 + 2.2",
+	"IntelectoXlevel": "23 + 3.4",
+	"ResistenciaMagicaBase": " 25%",
+	"RangoAtaque": "675",
+	"VelocidadAtaque": "100",
+	"VelocidadProyectil": "1250",
+	"VelocidadMovimiento": "285",
+	
   },
   {
     "id": 3,
-    "name": "Harry Potter y el prisionero de Azkaban",
-    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf3.jpg",
-    "type": [
-      "Adventure",
-      "Fantastic"
-    ],
-	"year": "2004",
-	"duration": "2h 22min",
-	"director": "Alfonso Cuarón",
-	"description": "alguna"
+    "name": "Axe",
+    "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/dire/axe.png",
+    
+	"Atributo": "Fuerza",
+	
+	"FuerzaXlevel": "25 + 3.4",
+	"AgilidadXlevel": "20 + 2.2",
+	"IntelectoXlevel": "18 + 1.6",
+	"ResistenciaMagicaBase": " 25%",
+	"RangoAtaque": "150",
+	"VelocidadAtaque": "100",
+	"VelocidadProyectil": "Instantaneo",
+	"VelocidadMovimiento": "310",
+	
   },
   {
     "id": 4,
-    "name": "Harry Potter y el cáliz de fuego",
-    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf4.jpg",
-    "type": [
-      "Adventure",
-      "Fantastic"
-    ],
-	"year": "2005",
-	"duration": "2h 37min",
-	"director": "Mike Newell",
-	"description": "alguna"
+    "name": "Enigma",
+    "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/dire/Enigma_icon.png",
+    
+	"Atributo": "Intelecto",
+	
+	"FuerzaXlevel": "21 + 2.5",
+	"AgilidadXlevel": "14 + 1",
+	"IntelectoXlevel": "19 + 3.6",
+	"ResistenciaMagicaBase": " 25%",
+	"RangoAtaque": "500",
+	"VelocidadAtaque": "100",
+	"VelocidadProyectil": "900",
+	"VelocidadMovimiento": "290",
+	
   },
   {
     "id": 5,
-    "name": "Harry Potter y la Orden del Fénix",
-    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf5.jpg",
-    "type": [
-      "Adventure",
-      "Fantastic"
-    ],
-	"year": "2007",
-	"duration": "2h 18min",
-	"director": "David Yates",
-	"description": "alguna"
+    "name": "Pugna",
+    "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/dire/Pugna_icon.png",
+    
+	"Atributo": "Intelecto",
+	
+	"FuerzaXlevel": "19 + 2",
+	"AgilidadXlevel": "24 + 1.3",
+	"IntelectoXlevel": "24 + 5.2",
+	"ResistenciaMagicaBase": " 25%",
+	"RangoAtaque": "630",
+	"VelocidadAtaque": "100",
+	"VelocidadProyectil": "900",
+	"VelocidadMovimiento": "330",
+	
   },
   {
     "id": 6,
-    "name": "Harry Potter y el príncipe mestizo",
-    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf6.jpg",
-    "type": [
-      "Adventure",
-      "Fantastic"
-    ],
-	"year": "2009",
-	"duration": "2h 33min",
-	"director": "David Yates",
-	"description": "alguna"
+    "name": "Mierdusa",
+    "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/dire/Medusa_icon.png",
+    
+	"Atributo": "Agilidad",
+	
+	"FuerzaXlevel": "17 + 1.5",
+	"AgilidadXlevel": "22 + 3.4",
+	"IntelectoXlevel": "23 + 3.4",
+	"ResistenciaMagicaBase": " 25%",
+	"RangoAtaque": "600",
+	"VelocidadAtaque": "100",
+	"VelocidadProyectil": "1200",
+	"VelocidadMovimiento": "275",
+	
   },
   {
     "id": 7,
-    "name": "Harry Potter y las reliquias de la muerte - Parte 1",
-    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf7.png",
-    "type": [
-      "Adventure",
-      "Fantastic"
-    ],
-	"year": "2010",
-	"duration": "2h 26min",
-	"director": "David Yates",
-	"description": "alguna"
+    "name": "Meepo",
+    "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/dire/Meep.png",
+    
+	"Atributo": "Agilidad",
+	
+	"FuerzaXlevel": "24 + 1.6",
+	"AgilidadXlevel": "17 + 1.6",
+	"IntelectoXlevel": "20 + 1.6",
+	"ResistenciaMagicaBase": " 25%",
+	"RangoAtaque": "150",
+	"VelocidadAtaque": "100",
+	"VelocidadProyectil": "Instantaneo",
+	"VelocidadMovimiento": "330",
+	
   },
   {
     "id": 8,
-    "name": "Harry Potter y las reliquias de la muerte - Parte 2",
-    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf8.png",
-    "type": [
-      "Adventure",
-      "Fantastic"
-    ],
-	"year": "2011",
-	"duration": "2h 10min",
-	"director": "David Yates",
-	"description": "alguna"
+    "name": "Shadow Fiend",
+    "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/dire/nevermore.png",
+    
+	"Atributo": "Agilidad",
+	
+	"FuerzaXlevel": "19 + 2.7",
+	"AgilidadXlevel": "20 + 3.5",
+	"IntelectoXlevel": "18 + 2.2",
+	"ResistenciaMagicaBase": " 25%",
+	"RangoAtaque": "500",
+	"VelocidadAtaque": "100",
+	"VelocidadProyectil": "1200",
+	"VelocidadMovimiento": "305",
+	
   },
-  {
-    "id": 9,
-    "name": "Animales fantásticos y dónde encontrarlos",
-    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf9.jpg",
-    "type": [
-      "Adventure",
-      "Fantastic"
-    ],
-	"year": "2016",
-	"duration": "2h 13min",
-	"director": "David Yates",
-	"description": "alguna"
-  },
-  {
-    "id": 10,
-    "name": "Animales fantásticos: Los crímenes de Grindelwald",
-    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf10.png",
-    "type": [
-      "Adventure",
-      "Fantastic"
-    ],
-	"year": "2018",
-	"duration": "2h 14min",
-	"director": "David Yates",
-	"description": "alguna"
-  },
-  {
-    "id": 11,
-    "name": "Animales fantásticos: Los secretos de Dumbledore",
-    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf11.jpg",
-    "type": [
-      "Adventure",
-      "Fantastic"
-    ],
-	"year": "2022",
-	"duration": "por definir",
-	"director": "David Yates",
-	"description": "alguna"
-  }
-   ]
+   ],
+    "Heroes Radiant": [
+	]
 }
