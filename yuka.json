@@ -63,7 +63,7 @@
   {
     "id": 5,
     "name": "Medusa",
-    "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/dire/Medusa_icnon.png",
+    "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/dire/Medusa_icon.png",
     "atributos": {
       "fuerza" : "17 + 1.5",
       "agilidad" : "22 + 3.4",
@@ -153,7 +153,7 @@
   {
     "id": 11,
     "name": "Queen_of_Pain",
-    "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/dire/queen_of_pain.png",
+    "img": "https://github.com/ceson990202/la_yuka/blob/main/assets/dire/queen%20of%20pain.png",
     "atributos": {
       "fuerza" : "18 + 2.4",
       "agilidad" : "22 + 2.5",
