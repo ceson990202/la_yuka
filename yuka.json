@@ -4,7 +4,7 @@
     "id": 1,
     "name": "Ancient",
     "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/dire/ancient.png",
-    "atributos": {
+    "atributos": [
       "fuerza : 20 + 1.9",
       "agilidad : 20 + 2.2",
       "intelecto : 23 + 3.4",
@@ -12,7 +12,7 @@
       "mana_base : 75"  ,
       "velocidad  : 285"
       
-    }
+    ]
 	
   },
   {
