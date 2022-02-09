@@ -1,5 +1,5 @@
 {
-  "faccion dire": [
+  "faccion_dire": [
   {
     "id": 1,
     "name": "Ancient",
@@ -183,7 +183,7 @@
 
   
    ],
-   "faccion radiant": [
+   "faccion_radiant": [
   {
     "id": 1,
     "name": "Lina",
