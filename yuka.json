@@ -217,7 +217,7 @@
   {
     "id": 3,
     "name": "Dark Willow",
-    "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/radiant/dark_willow.png",
+    "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/radiant/dark%20willow.png",
     "atributos": [
       "fuerza : 20 +2",
       "agilidad : 18 + 1.6",
@@ -336,7 +336,7 @@
   {
     "id": 11,
     "name": "Marci",
-    "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/radiant/marci.png",
+    "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/radiant/marcy.png",
     "atributos": [
       "fuerza : 23 + 3.3",
       "agilidad : 20 + 2.4",
