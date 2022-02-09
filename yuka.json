@@ -153,7 +153,7 @@
   {
     "id": 11,
     "name": "Queen_of_Pain",
-    "img": "https://github.com/ceson990202/la_yuka/blob/main/assets/dire/queen%20of%20pain.png",
+    "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/dire/queen%20of%20pain.png",
     "atributos": {
       "fuerza" : "18 + 2.4",
       "agilidad" : "22 + 2.5",
