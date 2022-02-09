@@ -5,12 +5,12 @@
     "name": "Ancient",
     "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/dire/ancient.png",
     "atributos": {
-      "fuerza" : "20 + 1.9",
-      "agilidad" : "20 + 2.2",
-      "intelecto" : "23 + 3.4",
-      "vida_base" : "200",
-      "mana_base" : "75"  ,
-      "velocidad"  : "285"
+      "fuerza : 20 + 1.9",
+      "agilidad : 20 + 2.2",
+      "intelecto : 23 + 3.4",
+      "vida_base : 200",
+      "mana_base : 75"  ,
+      "velocidad  : 285"
       
     }
 	
