@@ -19,15 +19,15 @@
     "id": 2,
     "name": "Axe",
     "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/dire/axe.png",
-    "atributos": {
-      "fuerza" : "25 + 3.4",
-      "agilidad" : "20 + 2.2",
-      "intelecto" : "18 + 1.6",
-      "vida_base" : "200",
-      "mana_base" : "75" , 
-      "velocidad" : "310"
+    "atributos": [
+      "fuerza : 25 + 3.4",
+      "agilidad : 20 + 2.2",
+      "intelecto : 18 + 1.6",
+      "vida_base : 200",
+      "mana_base : 75" , 
+      "velocidad : 310"
       
-    }
+    ]
 	
   },
   {
