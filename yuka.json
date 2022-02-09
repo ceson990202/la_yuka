@@ -34,150 +34,150 @@
     "id": 3,
     "name": "Enigma",
     "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/dire/Enigma_icon.png",
-    "atributos": {
-      "fuerza" : "21 +2.5",
-      "agilidad" : "14 + 1",
-      "intelecto" : "19 + 3.4",
-      "vida_base" : "200",
-      "mana_base" : "75"  ,
-      "velocidad" : "290"
+    "atributos": [
+      "fuerza : 21 +2.5",
+      "agilidad : 14 + 1",
+      "intelecto : 19 + 3.4",
+      "vida_base : 200",
+      "mana_base : 75"  ,
+      "velocidad : 290"
       
-    }
+    ]
 	
   },
   {
     "id": 4,
     "name": "Invoker",
     "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/dire/invokah.png",
-    "atributos": {
-      "fuerza" : "18 + 2.4",
-      "agilidad" : "14 + 1.9",
-      "intelecto" : "15 + 4.6",
-      "vida_base" : "200",
-      "mana_base" : "75"  ,
-      "velocidad" : "275"
+    "atributos": [
+      "fuerza : 18 + 2.4",
+      "agilidad : 14 + 1.9",
+      "intelecto : 15 + 4.6",
+      "vida_base : 200",
+      "mana_base : 75"  ,
+      "velocidad : 275"
       
-    }
+    ]
 	
   },
   {
     "id": 5,
     "name": "Medusa",
     "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/dire/Medusa_icon.png",
-    "atributos": {
-      "fuerza" : "17 + 1.5",
-      "agilidad" : "22 + 3.4",
-      "intelecto" : "23 + 3.4",
-      "vida_base" : "200",
-      "mana_base" : "75"  ,
-      "velocidad" : "275"
+    "atributos": [
+      "fuerza : 17 + 1.5",
+      "agilidad : 22 + 3.4",
+      "intelecto : 23 + 3.4",
+      "vida_base : 200",
+      "mana_base : 75"  ,
+      "velocidad : 275"
       
-    }
+    ]
 	
   },
   {
     "id": 6,
     "name": "Meepo",
     "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/dire/Meep.png",
-    "atributos": {
-      "fuerza" : "24 + 1.6",
-      "agilidad" : "17 + 1.6",
-      "intelecto" : "20 + 1.6",
-      "vida_base" : "200",
-      "mana_base" : "75"  ,
-      "velocidad" : "330"
+    "atributos": [
+      "fuerza : 24 + 1.6",
+      "agilidad : 17 + 1.6",
+      "intelecto : 20 + 1.6",
+      "vida_base : 200",
+      "mana_base : 75"  ,
+      "velocidad : 330"
       
-    }
+    ]
 	
   },
   {
     "id": 7,
     "name": "Nevermore",
     "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/dire/nevermore.png",
-    "atributos": {
-      "fuerza" : "19 + 2.7",
-      "agilidad" : "20 + 3.5",
-      "intelecto " : " 18 + 2.2",
-      "vida_base" : "200",
-      "mana_base" : "75"  ,
-      "velocidad" : "305"
+    "atributos": [
+      "fuerza : 19 + 2.7",
+      "agilidad : 20 + 3.5",
+      "intelecto : 18 + 2.2",
+      "vida_base : 200",
+      "mana_base : 75"  ,
+      "velocidad : 305"
       
-    }
+    ]
 	
   },
   {
     "id": 8,
     "name": "Mortred",
     "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/dire/pa.png",
-    "atributos": {
-      "fuerza" : "21 + 2.2",
-      "agilidad" : "23 + 3.4",
-      "intelecto" : "15 + 1.4",
-      "vida_base" : "200",
-      "mana_base" : "75"  ,
-      "velocidad" : "305"
+    "atributos": [
+      "fuerza : 21 + 2.2",
+      "agilidad : 23 + 3.4",
+      "intelecto : 15 + 1.4",
+      "vida_base : 200",
+      "mana_base : 75"  ,
+      "velocidad : 305"
       
-    }
+    ]
 	
   },
   {
     "id": 9,
     "name": "Pudge",
     "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/dire/Pudge.png",
-    "atributos": {
-      "fuerza" : "25 + 3",
-      "agilidad" : "14 + 1.4",
-      "intelecto" : "16 + 1.5",
-      "vida_base" : "200",
-      "mana_base" : "75"  ,
-      "velocidad" : "280"
+    "atributos": [
+      "fuerza : 25 + 3",
+      "agilidad : 14 + 1.4",
+      "intelecto : 16 + 1.5",
+      "vida_base : 200",
+      "mana_base : 75"  ,
+      "velocidad : 280"
       
-    }
+    ]
 	
   },
   {
     "id": 10,
     "name": "Pugna",
     "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/dire/Pugna_icon.png",
-    "atributos": {
-      "fuerza" : "19 + 2",
-      "agilidad" : "24 + 1.3",
-      "intelecto" : "24 + 5.2",
-      "vida_base " : " 200",
-      "mana_base" : "75" , 
-      "velocidad" : "350"
+    "atributos": [
+      "fuerza : 19 + 2",
+      "agilidad : 24 + 1.3",
+      "intelecto : 24 + 5.2",
+      "vida_base : 200",
+      "mana_base : 75" , 
+      "velocidad : 350"
       
-    }
+    ]
 	
   },
   {
     "id": 11,
-    "name": "Queen_of_Pain",
+    "name": "Queen of Pain",
     "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/dire/queen%20of%20pain.png",
-    "atributos": {
-      "fuerza" : "18 + 2.4",
-      "agilidad" : "22 + 2.5",
-      "intelecto" : "25 + 3.4",
-      "vida_base" : "200",
-      "mana_base" : "75"  ,
-      "velocidad" : "290"
+    "atributos": [
+      "fuerza : 18 + 2.4",
+      "agilidad : 22 + 2.5",
+      "intelecto : 25 + 3.4",
+      "vida_base : 200",
+      "mana_base : 75"  ,
+      "velocidad : 290"
       
-    }
+    ]
 	
   },
   {
     "id": 12,
-    "name": "Winter_Wyvern",
+    "name": "Winter Wyvern",
     "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/dire/Winter_Wyvern.png",
-    "atributos": {
-      "fuerza" : "24 + 2.6",
-      "agilidad" : "16 + 1.7",
-      "intelecto" : "26 + 3.6",
-      "vida_base" : "200",
-      "mana_base" : "75" , 
-      "velocidad" : "285"
+    "atributos": [
+      "fuerza : 24 + 2.6",
+      "agilidad : 16 + 1.7",
+      "intelecto : 26 + 3.6",
+      "vida_base : 200",
+      "mana_base : 75" , 
+      "velocidad : 285"
       
-    }
+    ]
 	
   }
 
@@ -188,179 +188,179 @@
     "id": 1,
     "name": "Lina",
     "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/radiant/lina.png",
-    "atributos": {
-      "fuerza" : "20 + 1.9",
-      "agilidad" : "20 + 2.2",
-      "intelecto" : "23 + 3.4",
-      "vida_base" : "200",
-      "mana_base" : "75" , 
-      "velocidad" : "285"
+    "atributos": [
+      "fuerza : 20 + 1.9",
+      "agilidad : 20 + 2.2",
+      "intelecto : 23 + 3.4",
+      "vida_base : 200",
+      "mana_base : 75" , 
+      "velocidad : 285"
       
-    }
+    ]
 	
   },
   {
     "id": 2,
-    "name": "Legion_comander",
+    "name": "Legion",
     "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/radiant/legion.png",
-    "atributos": {
-      "fuerza" : "20 + 2.4",
-      "agilidad" : "23 + 2.1",
-      "intelecto" : "30 + 3.7",
-      "vida_base" : "200",
-      "mana_base" : "75" , 
-      "velocidad" : "290"
+    "atributos": [
+      "fuerza : 20 + 2.4",
+      "agilidad : 23 + 2.1",
+      "intelecto : 30 + 3.7",
+      "vida_base : 200",
+      "mana_base : 75" , 
+      "velocidad : 290"
       
-    }
+    ]
 	
   },
   {
     "id": 3,
-    "name": "Dark_Willow",
+    "name": "Dark Willow",
     "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/radiant/dark_willow.png",
-    "atributos": {
-      "fuerza" : "20 +2",
-      "agilidad" : "18 + 1.6",
-      "intelecto" : "21 + 3.5",
-      "vida_base" : "200",
-      "mana_base" : "75" , 
-      "velocidad" : "290"
+    "atributos": [
+      "fuerza : 20 +2",
+      "agilidad : 18 + 1.6",
+      "intelecto : 21 + 3.5",
+      "vida_base : 200",
+      "mana_base : 75" , 
+      "velocidad : 290"
       
-    }
+    ]
 	
   },
   {
     "id": 4,
     "name": "Jakiro",
     "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/radiant/jakiro.png",
-    "atributos": {
-      "fuerza" : "27 + 2.9",
-      "agilidad" : "15 + 1.2",
-      "intelecto" : "26 + 3",
-      "vida_base" : "200",
-      "mana_base" : "75"  ,
-      "velocidad" : "290"
+    "atributos": [
+      "fuerza : 27 + 2.9",
+      "agilidad : 15 + 1.2",
+      "intelecto : 26 + 3",
+      "vida_base : 200",
+      "mana_base : 75"  ,
+      "velocidad : 290"
       
-    }
+    ]
 	
   },
   {
     "id": 5,
-    "name": "Crystal_Maiden",
+    "name": "Crystal Maiden",
     "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/radiant/crystal.png",
-    "atributos": {
-      "fuerza" : "18 + 2.2",
-      "agilidad" : "16 + 1.6",
-      "intelecto" : "16 + 3.3",
-      "vida_base" : "200",
-      "mana_base" : "75"  ,
-      "velocidad" : "280"
+    "atributos": [
+      "fuerza : 18 + 2.2",
+      "agilidad : 16 + 1.6",
+      "intelecto : 16 + 3.3",
+      "vida_base : 200",
+      "mana_base : 75"  ,
+      "velocidad : 280"
       
-    }
+    ]
 	
   },
   {
     "id": 6,
     "name": "windranger",
     "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/radiant/wind.png",
-    "atributos": {
-      "fuerza" : "18 + 3",
-      "agilidad" : "17 + 1.4",
-      "intelecto" : "18 + 3.6",
-      "vida_base" : "200",
-      "mana_base" : "75" , 
-      "velocidad" : "290"
+    "atributos": [
+      "fuerza : 18 + 3",
+      "agilidad : 17 + 1.4",
+      "intelecto : 18 + 3.6",
+      "vida_base : 200",
+      "mana_base : 75" , 
+      "velocidad : 290"
       
-    }
+    ]
 	
   },
   {
     "id": 7,
     "name": "Io",
     "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/radiant/io.png",
-    "atributos": {
-      "fuerza" : "17 + 3",
-      "agilidad" : "14 + 1.6",
-      "intelecto" : "23 + 1.7",
-      "vida_base" : "200",
-      "mana_base" : "75"  ,
-      "velocidad" : "320"
+    "atributos": [
+      "fuerza : 17 + 3",
+      "agilidad : 14 + 1.6",
+      "intelecto : 23 + 1.7",
+      "vida_base : 200",
+      "mana_base : 75"  ,
+      "velocidad : 320"
       
-    }
+    ]
 	
   },
   {
     "id": 8,
     "name": "Traxe",
     "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/radiant/traxe.png",
-    "atributos": {
-      "fuerza" : "18 + 1.9",
-      "agilidad" : "20 + 2.9",
-      "intelecto" : "15 + 1.4",
-      "vida_base" : "200",
-      "mana_base" : "75" , 
-      "velocidad" : "295"
+    "atributos": [
+      "fuerza : 18 + 1.9",
+      "agilidad : 20 + 2.9",
+      "intelecto : 15 + 1.4",
+      "vida_base : 200",
+      "mana_base : 75" , 
+      "velocidad : 295"
       
-    }
+    ]
   },
   {
     "id": 9,
-    "name": "Ember_Spirit",
+    "name": "Ember Spirit",
     "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/radiant/ember.png",
-    "atributos": {
-      "fuerza" : "21 + 2.6",
-      "agilidad" : "22 + 2.9",
-      "intelecto" : "20 + 2.2",
-      "vida_base" : "200",
-      "mana_base" : "75",  
-      "velocidad" : "305"
+    "atributos": [
+      "fuerza : 21 + 2.6",
+      "agilidad : 22 + 2.9",
+      "intelecto : 20 + 2.2",
+      "vida_base : 200",
+      "mana_base : 75",  
+      "velocidad : 305"
       
-    }
+    ]
 	
   },
   {
     "id": 10,
     "name": "Luna",
     "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/radiant/luna.png",
-    "atributos": {
-      "fuerza" : "21 + 2.2",
-      "agilidad" : "24 + 3.4",
-      "intelecto" : "23 + 1.9",
-      "vida_base" : "200",
-      "mana_base" : "75"  ,
-      "velocidad" : "325"
+    "atributos": [
+      "fuerza : 21 + 2.2",
+      "agilidad : 24 + 3.4",
+      "intelecto : 23 + 1.9",
+      "vida_base : 200",
+      "mana_base : 75"  ,
+      "velocidad : 325"
       
-    }
+    ]
 	
   },
   {
     "id": 11,
     "name": "Marci",
     "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/radiant/marci.png",
-    "atributos": {
-      "fuerza" : "23 + 3.3",
-      "agilidad" : "20 + 2.4",
-      "intelecto" : "19 + 1.9",
-      "vida_base" : "200",
-      "mana_base" : "75"  ,
-      "velocidad" : "310"
-      
-    }
+    "atributos": [
+      "fuerza : 23 + 3.3",
+      "agilidad : 20 + 2.4",
+      "intelecto : 19 + 1.9",
+      "vida_base : 200",
+      "mana_base : 75"  ,
+      "velocidad : 310"
+      ]
+    
 	
   },
   {
     "id": 12,
     "name": "Templar",
     "img": "https://raw.githubusercontent.com/ceson990202/la_yuka/main/assets/radiant/templar.png",
-    "atributos": {
-      "fuerza" : "21 + 2.4",
-      "agilidad" : "23 + 3.2",
-      "intelecto" : "20 + 2",
-      "vida_base" : "200",
-      "mana_base" : "75" , 
-      "velocidad" : "305"
+    "atributos": [
+      "fuerza : 21 + 2.4",
+      "agilidad : 23 + 3.2",
+      "intelecto : 20 + 2",
+      "vida_base : 200",
+      "mana_base : 75" , 
+      "velocidad : 305"
       
-    }
+    ]
 	
   }
 
